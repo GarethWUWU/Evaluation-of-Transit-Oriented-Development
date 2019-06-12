@@ -1,1 +1,6 @@
-
+该部分主要包括了数据预处理的代码
+combine_data.py ：将两部分的CSV文件组合为一个CSV文件
+secondtime_to_hourtime.py ：将通勤时间从时分秒格式转化为小时格式（10:30:00 -> 10.5）
+sorting_AREA_day.py ：将数据以格网ID号和天数进行排序
+calculate_day.py ：计算每次通勤的日期
+calculate_coordinate.py ：将shapefile文件和CSV文件以相同的格网ID号连接
