@@ -1,2 +1,2 @@
 # Evaluation-of-Transit-Oriented-Development-By-Smart-Card-Data
-The recent project i did 
+This project aims to evaluate transit-oriented development by using Smart Card data. 
